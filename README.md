@@ -1,2 +1,2 @@
 # pythonSelenium
-from old account "seojin2"
+from old account 
